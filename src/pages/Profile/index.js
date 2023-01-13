@@ -1,4 +1,4 @@
-function Upload() {
+function Profile() {
     return <h2>Upload</h2>;
 }
-export default Upload;
+export default Profile;
